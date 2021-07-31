@@ -1,0 +1,26 @@
+{
+  "name": "house-work",
+  "version": "0.0.1",
+  "description": "An interesting demo, in order to help you decide to buy a house in Shanghai, in order to go to work faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint *.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseCHN/house-work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseCHN/house-work/issues"
+  },
+  "homepage": "https://github.com/JesseCHN/house-work#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
